@@ -1,2 +1,3 @@
-# frontend
-UserInterface for ChainEd
+# ChainED-ui
+
+User Interface for ChainED
